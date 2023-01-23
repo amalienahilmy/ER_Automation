@@ -1,0 +1,17 @@
+when starting up laptop, 
+
+1. close ringcentral window
+2. detect wifi
+> if ER wifi - proceed
+> if not ER wifi - launch anyconnect
+
+3. open zabbix
+4. open gdn
+5. open zendesk - set to online
+6. open google chat 
+
+if normal shift, 
+Drop a  Hi in chitchat space
+
+if US shift
+Drop a Hi in PH US google chat
